@@ -1,0 +1,21 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  img {width: 100%;}
+  .card {
+    width:40% ;
+    border: 1px dashed red;
+  }
+  .main-little {
+    color: purple;
+  }
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  .box {
+    display: flex;
+    gap: 10px;
+  }
